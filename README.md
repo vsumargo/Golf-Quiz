@@ -45,15 +45,15 @@ The following image shows the three pages appearance:
 
 1. Landing Page - Golf Quiz ScreenShoot
 
-![screenshot of Golf Quiz Landing Page](Images/screenshoot-password-generator-page.png)
+![screenshot of Golf Quiz Landing Page](Assets/Images/landing-page.png)
 
 2. Question Page - Golf Quiz ScreenShoot
 
-![screenshot of Golf Quiz Questions](Images/screenshoot-password-generator-page.png)
+![screenshot of Golf Quiz Questions](Assets/Images/questions-page.png)
 
 3. End Page - Golf Quiz ScreenShoot
 
-![screenshot of Golf Quiz End Page](Images/screenshoot-password-generator-page.png)
+![screenshot of Golf Quiz End Page](Assets/Images/end-page.png)
 
 #### Links
 The following links will take you to the source code in github repository and the deployed live page:
