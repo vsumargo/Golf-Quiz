@@ -1,0 +1,73 @@
+body{
+    margin:0;
+    height:100vh;
+    
+}
+#mainContentRow{
+    margin:0;
+    height:500px;
+    align-content: center;
+}
+
+nav{
+    display:flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    background-color: rgb(204, 204, 204);
+    border-bottom: 2px solid rgb(70, 69, 69);
+}
+
+
+    
+h2{
+    text-align: left;
+}
+.multipleChoices{
+    /* display:flex;
+    flex-direction: column; */
+    justify-content: left;
+    text-align: left;
+    background-color: rgb(81, 169, 196);
+    width: max-content;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+#quit-btn{
+    justify-self:left;
+    align-content: flex-start;
+
+
+}
+
+
+.scorecard{
+display: none;
+width: 300px;
+background-color: white;
+border: 2px solid grey;
+border-radius: 1rem;
+position: relative;
+top: -490px;
+left: 950px;
+justify-content: center;
+}
+
+h6{
+    margin: 0.5rem;
+}
+
+p{
+    margin: 0.5rem;
+}
+
+#hide-button{
+    margin:0.5rem;
+    font-size: 1rem;
+}
+
+
+
